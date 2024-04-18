@@ -8,7 +8,7 @@ opensource-community 是一个关于 **开源社区|开源项目 可持续发展
 
 **开源的定义**
 
-> 初步
+> 初步 - [wiki](https://en.wikipedia.org/wiki/Open_source)
 
 - 开放
 - 共享共建
