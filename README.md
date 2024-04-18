@@ -29,18 +29,18 @@ opensource-community 是一个关于 **开源社区|开源项目 可持续发展
 
  ---
 
-## 讨论汇总分类
+### 讨论汇总分类
 
 > 分类放置一些有价值的问题, 思考, 期望 相关的讨论Issues
 
-### 问题
+#### 问题
 
-- #1
+- [问题|Issues类的模板 #1](https://github.com/Sunrisepeak/opensource-community/issues/1)
 
-### 思考
+#### 思考
 
-- #2
+- [思考|thinking类的模板 #2](https://github.com/Sunrisepeak/opensource-community/issues/2)
 
-### 期望
+#### 期望
 
-- #3
+- [问题|Issues类的模板 #3](https://github.com/Sunrisepeak/opensource-community/issues/2)
