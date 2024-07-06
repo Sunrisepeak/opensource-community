@@ -2,7 +2,7 @@
 name: Tech-Issue | 技术类问题
 about: 技术类问题的讨论
 title: ''
-labels: ''
+labels: tech | 技术
 assignees: ''
 
 ---
