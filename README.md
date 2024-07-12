@@ -25,4 +25,9 @@ opensource-community 是一个关于 **开源技术|开源社区|开源项目 �
 
 > 仰望星空, 脚踏实地 - 敢于畅想也立于现实
 
- 就事论事 | 开放包容 | 友好尊重
+开放包容 | 友好尊重 | 共建共享
+
+**社区**
+
+- **[创建问题/话题](https://github.com/Sunrisepeak/opensource-community/issues/new/choose)**
+- **即时沟通群Q:** 167535744
