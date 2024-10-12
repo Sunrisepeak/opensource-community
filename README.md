@@ -1,8 +1,16 @@
-# opensource-community | WIP - [社区问题看板](https://github.com/users/Sunrisepeak/projects/14)
+# opensource-community | 现在论坛已搭建好 -> [d2learn](https://forum.d2learn.org)
 
 opensource-community 是一个关于 **开源技术|开源社区|开源项目 可持续发展** 相关问题讨论的仓库 -- 问题, 解决方案, 理念及未来发展
 
 ---
+
+**可以选择对应版本发布讨论话题**
+
+![image](https://github.com/user-attachments/assets/30362723-ce67-413f-b70f-b3bb54511df0)
+
+---
+
+WIP - [社区问题看板](https://github.com/users/Sunrisepeak/projects/14)
 
 **开源的定义**
 
